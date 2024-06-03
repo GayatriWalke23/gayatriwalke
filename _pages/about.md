@@ -1,5 +1,10 @@
 ---
-Hi, I'm Gayatri!
+permalink: /
+title: "Gayatri Walke"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 I am passionate about AI and ML, backed by a solid software engineering background. Currently, I am in my Master's program, specializing in Artificial Intelligence. My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. I thrive on pushing the limits of technology to create meaningful impacts.
