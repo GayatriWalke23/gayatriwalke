@@ -12,16 +12,13 @@ redirect_from:
 
 Hello! I'm Gayatri, currently a graduate student at the University at Buffalo, exploring the vast world of Artificial Intelligence. I am passionate about AI and ML, backed by a solid software engineering background.
 
-👩‍💻 My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. 
+👩‍💻 My experience is rooted in crafting innovative solutions and fine-tuning intricate systems.
 
 ## 🤝 Let's Collaborate
 
 I believe in the power of collaboration and continuous improvement. If you're interested in discussing technology, AI, or just exchanging ideas, I’d love to connect and learn together.
 
 ### *I am currently seeking new opportunities in AI and Machine Learning software development. Feel free to reach out to me via [email](mailto:gayatriwalke23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayatriwalke/).*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatriwalke) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:gayatriwalke23@gmail.com)![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github) 
-
 
 If you are interested in the details of my professional and academic journey, feel free to explore my resume:[📄 Download My Resume](https://drive.google.com/file/d/17wpAyNtjW47N7sQGN2Zd63JMPp_E4o15/view?usp=sharing)
 
@@ -97,31 +94,37 @@ _Aug 2018 - Jun 2022_ | GPA: 4/4
 As an enthusiast in AI and ML, I've been involved in several projects that utilize cutting-edge technologies to address real-world problems. Here's a highlight of some of the key projects I've worked on:
 
 ### Transformer Text Classification
+
 - **Repository**: [Transformer Text Classification](https://github.com/GayatriWalke23/transformer-text-classification)
 - **Description**: This project implements a Transformer model from scratch using the PyTorch framework for text classification. It's trained on the ag_news_csv dataset to classify news articles into categories, demonstrating the power of Transformers in handling sequential data.
 - **Technologies Used**: PyTorch, Python
 
 ### Sentiment Analysis LSTM
+
 - **Repository**: [Sentiment Analysis LSTM](https://github.com/GayatriWalke23/Sentiment_Analysis_LSTM)
 - **Description**: Utilizing Long Short-Term Memory networks, this project focuses on classifying sentiments as positive, negative, or neutral. It's a practical application of LSTM networks in understanding and interpreting human emotions from text data.
 - **Technologies Used**: LSTM, Python, Jupyter Notebook
 
 ### Anomaly Detection Autoencoders
+
 - **Repository**: [Anomaly Detection Autoencoders](https://github.com/GayatriWalke23/Anomaly_Detection_Autoencoders)
 - **Description**: Focused on anomaly detection, this project employs autoencoders to identify unusual patterns in the Numenta Anomaly Benchmark dataset. It's crucial for industrial applications where anomaly detection can signify system issues or failures.
 - **Technologies Used**: Python, PyTorch, Autoencoders, Jupyter Notebook
 
 ### Time Series Forecasting RNN
+
 - **Repository**: [Time Series Forecasting RNN](https://github.com/GayatriWalke23/Time_Series_Forecasting_RNN)
 - **Description**: This project uses Recurrent Neural Networks to predict energy consumption from historical data. It showcases the effectiveness of RNNs in forecasting time-series data, a critical component in energy management and planning.
 - **Technologies Used**: RNN, Python, Jupyter Notebook
 
 ### ResNet18 Image Classification
+
 - **Repository**: [ResNet18 Image Classification](https://github.com/GayatriWalke23/ResNet18_Image_Classification)
 - **Description**: Implementing the ResNet-18 architecture for image classification, this project tackles a dataset with images categorized into dogs, cars, and food. It demonstrates the robustness of ResNet architectures in handling complex image data.
 - **Technologies Used**: ResNet-18, Python, PyTorch, Jupyter Notebook
 
 ### VGG13 Image Classification
+
 - **Repository**: [VGG13 Image Classification](https://github.com/GayatriWalke23/VGG13_Image_Classification)
 - **Description**: This project applies the VGG-13 architecture to classify images from a dataset of dogs, cars, and food. With 30,000 samples, it explores the capabilities of VGG models in achieving high accuracy in multi-class image classification tasks.
 - **Technologies Used**: VGG-13, Python, PyTorch, Jupyter Notebook
