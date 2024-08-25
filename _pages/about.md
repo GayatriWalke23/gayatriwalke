@@ -6,18 +6,132 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
 
-I am passionate about AI and ML, backed by a solid software engineering background. Currently, I am in my Master's program, specializing in Artificial Intelligence. My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. I thrive on pushing the limits of technology to create meaningful impacts.
+# Welcome! 🌼
+
+## Gayatri Nagesh Walke
+
+## 🌱 About Me
+
+Hello! I'm Gayatri, currently a graduate student at the University at Buffalo, exploring the vast world of Artificial Intelligence. I am passionate about AI and ML, backed by a solid software engineering background.
+
+👩‍💻 **I'm constantly learning and trying to apply my knowledge to develop solutions that can help improve how we interact with technology.**
+
+ My experience is rooted in crafting innovative solutions and fine-tuning intricate systems. I thrive on pushing the limits of technology to create meaningful impacts.
+
+## 🤝 Let's Collaborate
+
+I believe in the power of collaboration and continuous improvement. If you're interested in discussing technology, AI, or just exchanging ideas, I’d love to connect and learn together.
 
 ### *I am currently seeking new opportunities in AI and Machine Learning software development. Feel free to reach out to me via [email](mailto:gayatriwalke23@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gayatriwalke/).*
 
-## Current Role
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gayatriwalke) [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:gayatriwalke23@gmail.com)![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 
-### AI ML Engineer Intern at [mirro.ai](https://mirro.ai/)
+I believe that every experience is a stepping stone to greater understanding and collaboration. If you’re interested in the details of my professional and academic journey, feel free to explore my resume:
 
-I am currently engaged in the development of an AI bot with empathetic capabilities, aiming to elevate user interactions by dynamically matching tone and speed. This project represents a fusion of cutting-edge AI technologies with the nuanced understanding of human communication, enabling the bot to respond with empathy and understanding.
+[📄 Download My Resume](https://drive.google.com/file/d/17wpAyNtjW47N7sQGN2Zd63JMPp_E4o15/view?usp=sharing)
+This document is a reflection of my ongoing commitment to learning and growing within the tech community. I am always open to feedback and opportunities to further enhance my skills and understanding.
 
-### Check out my projects on [GitHub](https://github.com/GayatriWalke23?tab=repositories)!
+## 💼 Experience
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+# Experience
+
+### Machine Learning Engineer Coop
+
+**mirro, United States**_August 2024 - Present (1 month)_
+
+- Currently developing a Continuity Risk Assessment Platform to analyze emotional cues, assess engagement, and detect session types using multimodal data.
+
+### AI/ML Engineer Intern
+
+**mirro, United States**_May 2024 - August 2024 (4 months)_
+
+- Developed an empathetic AI bot trained on the SRI dataset, enhancing speech rate detection by 65%.
+- Implemented speaker diarization using PyNode embedding clustering to distinguish individual speakers accurately.
+
+### Software Engineer
+
+**Dell Technologies, Hyderabad, Telangana, India**_August 2022 - August 2023 (1 year 1 month)_
+
+- Developed a compliance drift detection system across 5000+ servers, significantly reducing manual oversight.
+- Built and integrated an email reporting module across five products, improving reporting efficiency.
+
+### Project Intern
+
+**Indian Institute of Technology, Hyderabad, Telangana, India**_October 2021 - June 2022 (9 months)_
+
+- Contributed to a Federated Reinforcement Learning Framework for Autonomous Driving, enhancing privacy and decision-making accuracy.
+
+### Software Development Intern
+
+**Dell Technologies, Hyderabad, Telangana, India**_June 2021 - July 2021 (2 months)_
+
+- Developed a user-friendly platform for efficient batch editing of customer satisfaction feedback, reducing manual intervention by 80%.
+
+### Summer Research Intern
+
+**Automotive Research Association of India (ARAI), Pune, Maharashtra, India**_May 2019 - July 2019 (3 months)_
+
+- Developed algorithms for navigational path planning and the calculation of the shortest possible curves for automotive navigation.
+
+---
+
+## 🎓 Education
+
+**MSc in Computer Science and Engineering**
+_University at Buffalo, The State University of New York_
+_Aug 2023 - Dec 2024_ | GPA: 3.91/4
+
+**BTech in Computer Engineering**
+_Savitribai Phule Pune University, India_
+_Aug 2018 - Jun 2022_ | GPA: 4/4
+
+---
+
+## 🏆 Recognition
+
+- **Innovation Award**, UB Collaboratory and Innovation Cell, 2024
+- **Consistent Performer**, Dell Technologies, 2022-2023
+- **Community Impact Award**, Cummins College, Pune, 2021
+- **Hackathon Participant**, Smart India Hackathon, 2020
+
+---
+
+## 🔍 Learning Projects
+
+As an enthusiast in AI and ML, I've been involved in several projects that utilize cutting-edge technologies to address real-world problems. Here's a highlight of some of the key projects I've worked on:
+
+#### Transformer Text Classification
+- **Repository**: [Transformer Text Classification](https://github.com/GayatriWalke23/transformer-text-classification)
+- **Description**: This project implements a Transformer model from scratch using the PyTorch framework for text classification. It's trained on the ag_news_csv dataset to classify news articles into categories, demonstrating the power of Transformers in handling sequential data.
+- **Technologies Used**: PyTorch, Python
+
+#### Sentiment Analysis LSTM
+- **Repository**: [Sentiment Analysis LSTM](https://github.com/GayatriWalke23/Sentiment_Analysis_LSTM)
+- **Description**: Utilizing Long Short-Term Memory networks, this project focuses on classifying sentiments as positive, negative, or neutral. It's a practical application of LSTM networks in understanding and interpreting human emotions from text data.
+- **Technologies Used**: LSTM, Python, Jupyter Notebook
+
+#### Anomaly Detection Autoencoders
+- **Repository**: [Anomaly Detection Autoencoders](https://github.com/GayatriWalke23/Anomaly_Detection_Autoencoders)
+- **Description**: Focused on anomaly detection, this project employs autoencoders to identify unusual patterns in the Numenta Anomaly Benchmark dataset. It's crucial for industrial applications where anomaly detection can signify system issues or failures.
+- **Technologies Used**: Python, PyTorch, Autoencoders, Jupyter Notebook
+
+#### Time Series Forecasting RNN
+- **Repository**: [Time Series Forecasting RNN](https://github.com/GayatriWalke23/Time_Series_Forecasting_RNN)
+- **Description**: This project uses Recurrent Neural Networks to predict energy consumption from historical data. It showcases the effectiveness of RNNs in forecasting time-series data, a critical component in energy management and planning.
+- **Technologies Used**: RNN, Python, Jupyter Notebook
+
+#### ResNet18 Image Classification
+- **Repository**: [ResNet18 Image Classification](https://github.com/GayatriWalke23/ResNet18_Image_Classification)
+- **Description**: Implementing the ResNet-18 architecture for image classification, this project tackles a dataset with images categorized into dogs, cars, and food. It demonstrates the robustness of ResNet architectures in handling complex image data.
+- **Technologies Used**: ResNet-18, Python, PyTorch, Jupyter Notebook
+
+#### VGG13 Image Classification
+- **Repository**: [VGG13 Image Classification](https://github.com/GayatriWalke23/VGG13_Image_Classification)
+- **Description**: This project applies the VGG-13 architecture to classify images from a dataset of dogs, cars, and food. With 30,000 samples, it explores the capabilities of VGG models in achieving high accuracy in multi-class image classification tasks.
+- **Technologies Used**: VGG-13, Python, PyTorch, Jupyter Notebook
+
+Feel free to reach out via email or connect with me on LinkedIn for more details or collaboration on future projects!
+
+---
